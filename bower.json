@@ -3,7 +3,7 @@
   "description": "",
   "main": "",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/felfcs/baldhub",
   "private": true,
   "ignore": [
     "**/.*",
@@ -13,6 +13,9 @@
     "tests"
   ],
   "dependencies": {
-    "boostrap": "^4.1.1"
-  }
+    "boostrap": "bootstrap#^4.1.1"
+  },
+  "authors": [
+    "felfcs <felfcs@hotmail.com>"
+  ]
 }
